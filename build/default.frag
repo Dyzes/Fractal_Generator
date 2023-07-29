@@ -1,4 +1,4 @@
-//δυστηχός παρόλο που η glsl έχει double δεν δουλεύουν οι μαθηματικές πράξεις (sin,log κτλ.)
+//δυστηχός παρόλο που η glsl έχει double δεν δουλεύουν οι μαθηματικές πράξεις (sin,log κτλ.) για αυτό έχω όσο quality μου αφήνουν τo float
 #version 460 core
 out vec4 FragColor;
 uniform vec2 resolution;
